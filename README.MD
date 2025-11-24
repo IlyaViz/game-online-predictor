@@ -29,6 +29,7 @@ An end-to-end Data Science project that forecasts the number of concurrent playe
 1. **Database Setup:**
 
    - Install PostgreSQL.
+   - Run `parser.py` from `code/initial_processing/` for initial data transformation.
    - Run scripts from `code/stage_and_main_zones/` to create the schema and tables.
 
 2. **Python Environment:**
